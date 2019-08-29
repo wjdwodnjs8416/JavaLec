@@ -6,7 +6,7 @@ public class Gugudan12312 {
 		// TODO Auto-generated method stub
 		int i =0;
 		for(i=2 ; i<10; i++) {
-			for(int j=1; j<=i; j++) {
+			for(int j=1; j<=10; j++) {
 				System.out.println(i +"*" + j + "=" + i*j);
 
 			}
