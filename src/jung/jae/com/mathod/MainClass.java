@@ -10,8 +10,8 @@ public class MainClass {
 	public static void main(String[] args) {
 
 		List<Integer> list = new ArrayList<Integer>();
-		while(list.size() <=0) {
-			//System.out.println(list.size());
+		while(list.size() <=50) {
+			
 			double randomNum = Math.random();
 			int random = (int)(randomNum * 100)+1;
 			if(list.contains(random)) {
