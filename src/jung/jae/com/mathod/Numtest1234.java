@@ -9,14 +9,14 @@ public class Numtest1234 {
 		int Rem;
 		int Decimal = 26;
 		int birary;
-		while(result == false) {
+		/*while(result == false) {
 			if(){
 
 			}else if(Quo == 0){ 
 				result = true;
 			}
 
-		}
+		}*/
 	}
 
 }
