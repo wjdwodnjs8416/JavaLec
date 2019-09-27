@@ -9,7 +9,27 @@ public class MainClass {
 
 	public static void main(String[] args) {
 
-		List<Integer> list = new ArrayList<Integer>();
+		Palindrome Ai = new Palindrome();
+		Ai.get("1001");
+		
+		System.out.println((Ai.get("89898")));
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		/*List<Integer> list = new ArrayList<Integer>();
 		while(list.size() <=50) {
 			
 			double randomNum = Math.random();
@@ -22,7 +42,7 @@ public class MainClass {
 		}
 		for(int i = 0 ; i < list.size() ; i++) {
 			System.out.println("randomNum : " + list.get(i));
-		}
+		}*/
 
 	}
 }
